@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <allAgeStr />
+  <villageAgeStr>14</villageAgeStr>
+  <villageGoodnessStr>仁善</villageGoodnessStr>
+  <villageMoodStr>乐极</villageMoodStr>
+  <villageCharmStr>天人</villageCharmStr>
+  <villageFavorStr>不渝</villageFavorStr>
+  <villageSkillDevelopStr>早熟</villageSkillDevelopStr>
+  <villageGongfaDevelopStr>早熟</villageGongfaDevelopStr>
+  <villageShopStr>奇货斋</villageShopStr>
+  <allEffectType>1</allEffectType>
+  <gongfaEffectArr>
+    <int>266</int>
+    <int>319</int>
+    <int>-1</int>
+  </gongfaEffectArr>
+  <studyWithNoAgeLimit>true</studyWithNoAgeLimit>
+  <increseMaxManPowerType>1</increseMaxManPowerType>
+  <maxManPowerNum>100</maxManPowerNum>
+  <increseBuildingNum>6</increseBuildingNum>
+  <baseBuildingNum>20</baseBuildingNum>
+  <lockTime>true</lockTime>
+  <mianActorKeepLunhui>true</mianActorKeepLunhui>
+  <overExpression>true</overExpression>
+</Settings>

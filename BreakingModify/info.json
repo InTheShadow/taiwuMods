@@ -1,0 +1,8 @@
+﻿{
+  "Id": "BreakingModify",
+  "DisplayName": "无影修改器",
+  "Author": "IntheShadow",
+  "Version": "1.0.0",
+  "AssemblyName": "BreakingModify.dll",
+  "EntryMethod": "BreakingModify.Main.Load"
+}

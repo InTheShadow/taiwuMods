@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <halfHalpUp>true</halfHalpUp>
+  <hasDebuff>true</hasDebuff>
+  <villageMoreGongfa>true</villageMoreGongfa>
+  <villageHighJingchun>true</villageHighJingchun>
+  <lunhuiAdvanced>true</lunhuiAdvanced>
+  <npcNumberLimited>true</npcNumberLimited>
+  <tombNumberLimited>true</tombNumberLimited>
+  <actorChildrenNumberLimited>false</actorChildrenNumberLimited>
+  <npcMaxNumber>100</npcMaxNumber>
+  <tombMaxNumber>5</tombMaxNumber>
+  <key>F11</key>
+  <buildingAdvanced>true</buildingAdvanced>
+  <buildingAdvancedType>0</buildingAdvancedType>
+  <neighborNine>true</neighborNine>
+  <crossMonth>true</crossMonth>
+  <makePower>true</makePower>
+  <makeLessTime>true</makeLessTime>
+</Settings>

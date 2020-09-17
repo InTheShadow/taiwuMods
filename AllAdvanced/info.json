@@ -1,0 +1,8 @@
+﻿{
+  "Id": "AllAdvanced",
+  "DisplayName": "无影优化模式",
+  "Author": "IntheShadow",
+  "Version": "1.0.1",
+  "AssemblyName": "AllAdvanced.dll",
+  "EntryMethod": "AllAdvanced.Main.Load"
+}
